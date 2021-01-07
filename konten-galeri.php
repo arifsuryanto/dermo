@@ -63,15 +63,7 @@
                                         <a href="upload/shutterstock_147266159.jpg" data-fancybox-group="greennature-gal-1" data-rel="fancybox"><img src="upload/shutterstock_147266159-400x300.jpg" alt="" width="400" height="300" /></a><span class="gallery-caption">Plant</span>
                                     </div>
                                 </div>
-                                <div class="gallery-column four columns">
-                                    <div class="gallery-item"><img src="upload/shutterstock_161515241-400x300.jpg" alt="" width="400" height="300" /><span class="gallery-caption">Energy</span></div>
-                                </div>
-                                <div class="gallery-column four columns">
-                                    <div class="gallery-item"><img src="upload/shutterstock_256181956-400x300.jpg" alt="" width="400" height="300" /><span class="gallery-caption">Kids</span></div>
-                                </div>
-                                <div class="gallery-column four columns">
-                                    <div class="gallery-item"><img src="upload/shutterstock_278672942-400x300.jpg" alt="" width="400" height="300" /><span class="gallery-caption">Kid</span></div>
-                                </div>
+
                             </div>
                             <div class="clear"></div>
                         </div>
