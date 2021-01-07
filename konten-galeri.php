@@ -4,7 +4,7 @@
         <div class="greennature-page-title-wrapper header-style-5-title-wrapper">
             <div class="greennature-page-title-overlay"></div>
             <div class="greennature-page-title-container container">
-                <h1 class="greennature-page-title">Gallery 4 Columns With Caption</h1>
+                <h1 class="greennature-page-title">Galeri Bukit Dermo</h1>
             </div>
         </div>
         <!-- is search -->

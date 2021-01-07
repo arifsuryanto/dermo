@@ -67,8 +67,8 @@
                         <div class="greennature-parallax-wrapper greennature-background-image gdlr-show-all no-skin" id="greennature-parallax-wrapper-1" data-bgspeed="0.11" style="background-image: url('upload/donation-bg.jpg'); padding-top: 90px; padding-bottom: 65px; ">
                             <div class="container">
                                 <div class="six columns">
-                                    <div class="greennature-item greennature-action-ads-item" style="background: url('upload/donation-bg-1.jpg'); ">
-                                        <h3 class="action-ads-title" style="color: #facc2e;">Make Donation</h3>
+                                    <div class="greennature-item greennature-action-ads-item" style="background: url('images/index-lokasi.jpg'); ">
+                                        <h3 class="action-ads-title" style="color: #facc2e;">Dimana lokasi Agrowisata Bukit Dermo ? </h3>
                                         <div class="action-ads-caption greennature-skin-info">Your money can cure this
                                             earth</div>
                                         <div class="action-ads-divider" style="background: #facc2e;"></div>
@@ -83,8 +83,8 @@
                                     </div>
                                 </div>
                                 <div class="six columns">
-                                    <div class="greennature-item greennature-action-ads-item" style="background: url('upload/donation-bg-2.jpg'); ">
-                                        <h3 class="action-ads-title" style="color: #5dc269;">Stop Drilling, Need Action!
+                                    <div class="greennature-item greennature-action-ads-item" style="background: url('images/index-komoditas.jpg'); ">
+                                        <h3 class="action-ads-title" style="color: #5dc269;">Apa saja komoditas pertanian di Bukit Dermo ?
                                         </h3>
                                         <div class="action-ads-caption greennature-skin-info">Your voice does matter
                                         </div>
@@ -111,10 +111,8 @@
                                     <div class="greennature-item-title-container container">
                                         <div class="greennature-item-title-head">
                                             <h3 class="greennature-item-title greennature-skin-title greennature-skin-border">
-                                                <img src="upload/icon-5.png" alt="" width="80" height="80" />Our Recent
-                                                Projects
-                                            </h3><a class="greennature-item-title-link" href="#">More
-                                                Projects</a>
+                                                <img src="upload/icon-5.png" alt="" width="80" height="80" /> Produk Hasil Olahan UMKM
+                                            </h3><a class="greennature-item-title-link" href="umkm.php">Produk Lain</a>
                                             <div class="clear"></div>
                                         </div>
                                     </div>
@@ -126,7 +124,9 @@
                                             <div class="three columns">
                                                 <div class="greennature-item greennature-portfolio-item greennature-classic-portfolio">
                                                     <div class="greennature-ux greennature-classic-portfolio-ux">
-                                                        <div class="portfolio-thumbnail greennature-image"><img src="upload/shutterstock_161515241-540x326.jpg" alt="" width="540" height="326" /><span class="portfolio-overlay">&nbsp;</span><a class="portfolio-overlay-icon" href="upload/shutterstock_161515241.jpg" data-rel="fancybox"><span class="portfolio-icon"><i class="fa fa-search"></i></span></a></div>
+                                                        <div class="portfolio-thumbnail greennature-image"><img src="images/umkm-index/kecil/jahe.jpg" alt="" width="540" height="326" />
+                                                            <span class="portfolio-overlay">&nbsp;</span><a class="portfolio-overlay-icon" href="images/umkm-index/besar/jahe.jpg" data-rel="fancybox"><span class="portfolio-icon"><i class="fa fa-search"></i></span></a>
+                                                        </div>
                                                         <div class="portfolio-classic-content">
                                                             <h3 class="portfolio-title"><a href="#">Wind Energy</a></h3>
                                                             <div class="greennature-portfolio-info">
@@ -137,79 +137,103 @@
                                                             <div class="portfolio-excerpt">Lorem ipsum dolor sit amet,
                                                                 consectetur adipisici elit, sed eiusmod tempor incidunt
                                                                 ut labore et dolore magna aliqua....
-                                                                <div class="clear"></div><a href="#" class="excerpt-read-more">Read More</a>
-                                                            </div><a class="portfolio-classic-learn-more" href="#">Learn
-                                                                More</a>
+                                                                <div class="clear">
+
+                                                                </div>
+                                                                <!-- <a href="#" class="excerpt-read-more">Read More</a> -->
+                                                            </div>
+                                                            <!-- <a class="portfolio-classic-learn-more" href="#">Learn
+                                                                More</a> -->
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class="three columns">
                                                 <div class="greennature-item greennature-portfolio-item greennature-classic-portfolio">
                                                     <div class="greennature-ux greennature-classic-portfolio-ux">
-                                                        <div class="portfolio-thumbnail greennature-image"><img src="upload/shutterstock_133689230-540x326.jpg" alt="" width="540" height="326" /><span class="portfolio-overlay">&nbsp;</span><a class="portfolio-overlay-icon" href="#"><span class="portfolio-icon"><i class="fa fa-link"></i></span></a></div>
+                                                        <div class="portfolio-thumbnail greennature-image"><img src="images/umkm-index/kecil/pisang.jpg" alt="" width="540" height="326" />
+                                                            <span class="portfolio-overlay">&nbsp;</span><a class="portfolio-overlay-icon" href="images/umkm-index/besar/pisang.jpg" data-rel="fancybox"><span class="portfolio-icon"><i class="fa fa-search"></i></span></a>
+                                                        </div>
                                                         <div class="portfolio-classic-content">
-                                                            <h3 class="portfolio-title"><a href="#">Elephant
-                                                                    Sanctuary</a></h3>
+                                                            <h3 class="portfolio-title"><a href="#">Wind Energy</a></h3>
                                                             <div class="greennature-portfolio-info">
                                                                 <div class="portfolio-info portfolio-tag"><span class="info-head greennature-title">Tags
-                                                                    </span><a href="#" rel="tag">African</a><span class="sep">,</span> <a href="#" rel="tag">Animals</a></div>
+                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a></div>
                                                                 <div class="clear"></div>
                                                             </div>
                                                             <div class="portfolio-excerpt">Lorem ipsum dolor sit amet,
                                                                 consectetur adipisici elit, sed eiusmod tempor incidunt
                                                                 ut labore et dolore magna aliqua....
-                                                                <div class="clear"></div><a href="#" class="excerpt-read-more">Read More</a>
-                                                            </div><a class="portfolio-classic-learn-more" href="#">Learn
-                                                                More</a>
+                                                                <div class="clear">
+
+                                                                </div>
+                                                                <!-- <a href="#" class="excerpt-read-more">Read More</a> -->
+                                                            </div>
+                                                            <!-- <a class="portfolio-classic-learn-more" href="#">Learn
+                                                                More</a> -->
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class="three columns">
                                                 <div class="greennature-item greennature-portfolio-item greennature-classic-portfolio">
                                                     <div class="greennature-ux greennature-classic-portfolio-ux">
-                                                        <div class="portfolio-thumbnail greennature-image"><img src="upload/shutterstock_53600221-540x326.jpg" alt="" width="540" height="326" /><span class="portfolio-overlay">&nbsp;</span><a class="portfolio-overlay-icon" href="https://vimeo.com/101707505" data-rel="fancybox" data-fancybox-type="iframe"><span class="portfolio-icon"><i class="fa fa-film"></i></span></a></div>
+                                                        <div class="portfolio-thumbnail greennature-image"><img src="images/umkm-index/kecil/kenikir.jpg" alt="" width="540" height="326" />
+                                                            <span class="portfolio-overlay">&nbsp;</span><a class="portfolio-overlay-icon" href="images/umkm-index/besar/kenikir.jpg" data-rel="fancybox"><span class="portfolio-icon"><i class="fa fa-search"></i></span></a>
+                                                        </div>
                                                         <div class="portfolio-classic-content">
-                                                            <h3 class="portfolio-title"><a href="#">Conservation
-                                                                    Volunteer</a></h3>
+                                                            <h3 class="portfolio-title"><a href="#">Wind Energy</a></h3>
                                                             <div class="greennature-portfolio-info">
                                                                 <div class="portfolio-info portfolio-tag"><span class="info-head greennature-title">Tags
-                                                                    </span><a href="#" rel="tag">Cleaning</a><span class="sep">,</span> <a href="#" rel="tag">Volunteer</a></div>
+                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a></div>
                                                                 <div class="clear"></div>
                                                             </div>
                                                             <div class="portfolio-excerpt">Lorem ipsum dolor sit amet,
                                                                 consectetur adipisici elit, sed eiusmod tempor incidunt
                                                                 ut labore et dolore magna aliqua....
-                                                                <div class="clear"></div><a href="#" class="excerpt-read-more">Read More</a>
-                                                            </div><a class="portfolio-classic-learn-more" href="#">Learn
-                                                                More</a>
+                                                                <div class="clear">
+
+                                                                </div>
+                                                                <!-- <a href="#" class="excerpt-read-more">Read More</a> -->
+                                                            </div>
+                                                            <!-- <a class="portfolio-classic-learn-more" href="#">Learn
+                                                                More</a> -->
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
+
                                             <div class="three columns">
                                                 <div class="greennature-item greennature-portfolio-item greennature-classic-portfolio">
                                                     <div class="greennature-ux greennature-classic-portfolio-ux">
-                                                        <div class="portfolio-thumbnail greennature-image"><img src="upload/shutterstock_124871620-540x326.jpg" alt="" width="540" height="326" /><span class="portfolio-overlay">&nbsp;</span><a class="portfolio-overlay-icon" href="#"><span class="portfolio-icon"><i class="fa fa-link"></i></span></a></div>
+                                                        <div class="portfolio-thumbnail greennature-image"><img src="images/umkm-index/kecil/pare.jpg" alt="" width="540" height="326" />
+                                                            <span class="portfolio-overlay">&nbsp;</span><a class="portfolio-overlay-icon" href="images/umkm-index/besar/pare.jpg" data-rel="fancybox"><span class="portfolio-icon"><i class="fa fa-search"></i></span></a>
+                                                        </div>
                                                         <div class="portfolio-classic-content">
-                                                            <h3 class="portfolio-title"><a href="#">Engery
-                                                                    Conservation</a></h3>
+                                                            <h3 class="portfolio-title"><a href="#">Wind Energy</a></h3>
                                                             <div class="greennature-portfolio-info">
                                                                 <div class="portfolio-info portfolio-tag"><span class="info-head greennature-title">Tags
-                                                                    </span><a href="#" rel="tag">Animals</a><span class="sep">,</span> <a href="#" rel="tag">Volunteer</a></div>
+                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a></div>
                                                                 <div class="clear"></div>
                                                             </div>
                                                             <div class="portfolio-excerpt">Lorem ipsum dolor sit amet,
                                                                 consectetur adipisici elit, sed eiusmod tempor incidunt
                                                                 ut labore et dolore magna aliqua....
-                                                                <div class="clear"></div><a href="#" class="excerpt-read-more">Read More</a>
-                                                            </div><a class="portfolio-classic-learn-more" href="#">Learn
-                                                                More</a>
+                                                                <div class="clear">
+
+                                                                </div>
+                                                                <!-- <a href="#" class="excerpt-read-more">Read More</a> -->
+                                                            </div>
+                                                            <!-- <a class="portfolio-classic-learn-more" href="#">Learn
+                                                                More</a> -->
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
+
+
                                         </div>
                                         <div class="clear"></div>
                                     </div>
@@ -222,13 +246,19 @@
                     </section>
                     <section id="content-section-5">
                         <div class="greennature-color-wrapper  gdlr-show-all greennature-skin-service-half greennature-half-bg-wrapper" style="background-color: #f5f5f5; padding-bottom: 20px; ">
-                            <div class="greennature-half-bg greennature-bg-solid" style="background-image: url(upload/shutterstock_133689230.jpg);"></div>
+
                             <div class="container">
                                 <div class="six columns">
-                                    <div class="greennature-item greennature-content-item"></div>
+                                    <!-- <div class="greennature-item greennature-content-item">
+
+                                        <div class="greennature-half-bg greennature-bg-solid">
+                                        </div>
+                                    </div> -->
+                                    <iframe style="padding-top:5%;padding-left:0%;padding-right:0" src="https://www.youtube.com/embed/MH46SzpBqkU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
                                 </div>
                                 <div class="six columns">
-                                    <div class="greennature-item greennature-icon-with-list-item">
+                                    <div class="greennature-item greennature-icon-with-list-item" style="padding-top:5%">
                                         <div class="list-with-icon-ux greennature-ux">
                                             <div class="list-with-icon greennature-left">
                                                 <div class="list-with-icon-image"><img src="upload/icon-1.png" alt="" width="80" height="80" /></div>
@@ -286,7 +316,7 @@
                         <div class="clear"></div>
                     </section>
                     <section id="content-section-6">
-                        <div class="greennature-color-wrapper   " style="background-color: #ffffff; ">
+                        <div class="greennature-color-wrapper   " style="background-color: #1d1d1d; ">
                             <div class="container">
                                 <div class="four columns">
                                     <div class="greennature-item-title-wrapper greennature-item  greennature-left-divider greennature-small ">
@@ -591,60 +621,7 @@
                         </div>
                         <div class="clear"></div>
                     </section>
-                    <section id="content-section-9">
-                        <div class="greennature-parallax-wrapper greennature-background-image gdlr-show-all greennature-skin-dark-skin" id="greennature-parallax-wrapper-3" data-bgspeed="0.15" style="background-image: url('upload/service-bg-2.jpg'); padding-top: 135px; padding-bottom: 80px; ">
-                            <div class="container">
-                                <div class="three columns">
-                                    <div class="greennature-skill-item-wrapper greennature-skin-content greennature-item greennature-style-2" style="margin-bottom: 70px;"><img src="upload/icon-4.png" alt="" width="80" height="80" />
-                                        <div class="greennature-skill-item-title" style="color: #5dc269;">1,000,000
-                                        </div>
-                                        <div class="greennature-skill-item-caption" style="color: #ffffff;">Acres
-                                            Conserved</div>
-                                    </div>
-                                </div>
-                                <div class="three columns">
-                                    <div class="greennature-skill-item-wrapper greennature-skin-content greennature-item greennature-style-2" style="margin-bottom: 70px;"><img src="upload/icon-5.png" alt="" width="80" height="80" />
-                                        <div class="greennature-skill-item-title" style="color: #5dc269;">700</div>
-                                        <div class="greennature-skill-item-caption" style="color: #ffffff;">Scientists
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="three columns">
-                                    <div class="greennature-skill-item-wrapper greennature-skin-content greennature-item greennature-style-2" style="margin-bottom: 70px;"><img src="upload/icon-1.png" alt="" width="80" height="80" />
-                                        <div class="greennature-skill-item-title" style="color: #5dc269;">99.99%</div>
-                                        <div class="greennature-skill-item-caption" style="color: #ffffff;">Recycling
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="three columns">
-                                    <div class="greennature-skill-item-wrapper greennature-skin-content greennature-item greennature-style-2" style="margin-bottom: 70px;"><img src="upload/icon-2.png" alt="" width="80" height="80" />
-                                        <div class="greennature-skill-item-title" style="color: #5dc269;">2000MW</div>
-                                        <div class="greennature-skill-item-caption" style="color: #ffffff;">Solar Power
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="clear"></div>
-                                <div class="clear"></div>
-                                <div class="greennature-item greennature-divider-item" style="margin-bottom: 60px;">
-                                    <div class="greennature-divider thick"></div>
-                                </div>
-                                <div class="clear"></div>
-                                <div class="greennature-stunning-item-ux greennature-ux">
-                                    <div class="greennature-item greennature-stunning-item greennature-stunning-center">
-                                        <h2 class="stunning-item-title">The only way to make this happened is to take
-                                            action!</h2>
-                                        <div class="stunning-item-caption greennature-skin-content">
-                                            <p>Praesent commodo cursus magna, vel scelerisque nislet.</p>
-                                        </div><a class="stunning-item-button greennature-button large greennature-lb-payment" href="#" style="background-color: #ecb338; color: #ffffff;">Donate
-                                            Now!</a><a class="stunning-item-button greennature-button large" href="#">Act Now!</a>
-                                    </div>
-                                </div>
-                                <div class="clear"></div>
-                                <div class="clear"></div>
-                            </div>
-                        </div>
-                        <div class="clear"></div>
-                    </section>
+
                 </div>
 
             </div>
