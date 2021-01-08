@@ -73,22 +73,22 @@
                 <div class="clear"></div>
                 <div class="greennature-recent-port2-widget">
                     <div class="recent-port-widget-thumbnail">
-                        <a href="#"><img src="upload/shutterstock_161515241-150x150.jpg" alt="" width="150" height="150" /></a>
+                        <a href="galeri.php"><img src="images/galeri/galeri-kecil-1.jpg" alt="" width="150" height="150" /></a>
                     </div>
                     <div class="recent-port-widget-thumbnail">
-                        <a href="#"><img src="upload/shutterstock_133689230-150x150.jpg" alt="" width="150" height="150" /></a>
+                        <a href="galeri.php"><img src="images/galeri/galeri-kecil-2.jpg" alt="" width="150" height="150" /></a>
                     </div>
                     <div class="recent-port-widget-thumbnail">
-                        <a href="#"><img src="upload/shutterstock_53600221-150x150.jpg" alt="" width="150" height="150" /></a>
+                        <a href="galeri.php"><img src="images/galeri/galeri-kecil-3.jpg" alt="" width="150" height="150" /></a>
                     </div>
                     <div class="recent-port-widget-thumbnail">
-                        <a href="#"><img src="upload/shutterstock_124871620-150x150.jpg" alt="" width="150" height="150" /></a>
+                        <a href="galeri.php"><img src="images/galeri/galeri-kecil-4.jpg" alt="" width="150" height="150" /></a>
                     </div>
                     <div class="recent-port-widget-thumbnail">
-                        <a href="#"><img src="upload/shutterstock_281995004-150x150.jpg" alt="" width="150" height="150" /></a>
+                        <a href="galeri.php"><img src="images/galeri/galeri-kecil-5.jpg" alt="" width="150" height="150" /></a>
                     </div>
                     <div class="recent-port-widget-thumbnail">
-                        <a href="#"><img src="upload/shutterstock_256181956-150x150.jpg" alt="" width="150" height="150" /></a>
+                        <a href="galeri.php"><img src="images/galeri/galeri-kecil-6.jpg" alt="" width="150" height="150" /></a>
                     </div>
                     <div class="clear"></div>
                 </div>

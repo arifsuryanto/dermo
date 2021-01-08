@@ -57,12 +57,8 @@
                                         <div class="action-ads-caption greennature-skin-info"></div>
                                         <div class="action-ads-divider" style="background: #facc2e;"></div>
                                         <div class="action-ads-content">
-                                            <p>We are a larhge froup of people who powered movement fighting for a green
-                                                and peaceful future for your land, forest, ocenas, foods, climate and
-                                                pass the green earth to our children. Each one of us can make small
-                                                changes in our lives, but together we can change the world.</p>
-                                            <a class="action-ads-button large greennature-button greennature-lb-payment" href="#" style="color: #6d5b1c;background-color: #fec428;">Donate
-                                                Now</a>
+                                            <p class="custom-text">Agrowisata Bukit Dermo berada di 35 hektare lahan kritis yang terletak di Jalan Jogja-Panggang KM 23, Dusun Nawungan 1, Desa Selopamioro, Kecamatan Imogiri, Kabupaten Bantul, Provinsi Daerah Istimewa Yogyakarta <br> <br> </p>
+                                            <a class=" action-ads-button large greennature-button greennature-lb-payment" href="kontak.php" style="color: #6d5b1c;background-color: #fec428;">Lihat Semua</a>
                                         </div>
                                     </div>
                                 </div>
@@ -74,8 +70,8 @@
                                         </div>
                                         <div class="action-ads-divider" style="background: #5dc269;"></div>
                                         <div class="action-ads-content">
-                                            <p class="custom-text">Adapun pohon buah yang ditanam antara lain Durian, Sirsak, Rambutan, Kelengkeng hingga Alpukat. </p>
-                                            <a class="action-ads-button large greennature-button" style="color: #ffffff;background-color: #5dc269;" href="#">Act Now!</a>
+                                            <p class="custom-text">Pertanian Nawungan memiliki komoditas, yang antara lain Durian, Bawang Merah Glowing, Sirsak, Kelengkeng, Rambutan hingga Alpukat. Bawang Merah menjadi komoditas utama, dari lahan pertanian seluas 350 hektare di Nawungan, 95 hektare di antaranya ditanami bawang merah.</p>
+                                            <a class="action-ads-button large greennature-button" style="color: #ffffff;background-color: #5dc269;" href="agriculture.php">Lihat Semua</a>
                                         </div>
                                     </div>
                                 </div>
@@ -113,10 +109,12 @@
                                                             </center>
                                                             <div class="greennature-portfolio-info">
                                                                 <div class="portfolio-info portfolio-tag"><span class="info-head greennature-title">Tags
-                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a></div>
+                                                                        <!-- </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a> -->
+                                                                </div>
                                                                 <div class="clear"></div>
                                                             </div>
-                                                            <div class="portfolio-excerpt">text
+                                                            <div class="portfolio-excerpt">
+                                                                <!-- text -->
                                                                 <div class="clear">
 
                                                                 </div>
@@ -140,11 +138,13 @@
                                                                 <h3 class="portfolio-title"><a href="#">Cerimping Pisang</a></h3>
                                                             </center>
                                                             <div class="greennature-portfolio-info">
-                                                                <div class="portfolio-info portfolio-tag"><span class="info-head greennature-title">Tags
-                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a></div>
+                                                                <div class="portfolio-info portfolio-tag">
+                                                                    <!-- <span class="info-head greennature-title">Tags
+                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a> -->
+                                                                </div>
                                                                 <div class="clear"></div>
                                                             </div>
-                                                            <div class="portfolio-excerpt">text
+                                                            <div class="portfolio-excerpt">
                                                                 <div class="clear">
 
                                                                 </div>
@@ -168,11 +168,14 @@
                                                                 <h3 class="portfolio-title"><a href="#">Keripik Kenikir</a></h3>
                                                             </center>
                                                             <div class="greennature-portfolio-info">
-                                                                <div class="portfolio-info portfolio-tag"><span class="info-head greennature-title">Tags
-                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a></div>
+                                                                <div class="portfolio-info portfolio-tag">
+                                                                    <!-- <span class="info-head greennature-title">Tags
+                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a> -->
+                                                                </div>
                                                                 <div class="clear"></div>
                                                             </div>
-                                                            <div class="portfolio-excerpt">text
+                                                            <div class="portfolio-excerpt">
+                                                                <!-- text -->
                                                                 <div class="clear">
 
                                                                 </div>
@@ -196,11 +199,14 @@
                                                                 <h3 class="portfolio-title"><a href="#">Keripik Pare</a></h3>
                                                             </center>
                                                             <div class="greennature-portfolio-info">
-                                                                <div class="portfolio-info portfolio-tag"><span class="info-head greennature-title">Tags
-                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a></div>
+                                                                <div class="portfolio-info portfolio-tag">
+                                                                    <!-- <span class="info-head greennature-title">Tags
+                                                                    </span><a href="#" rel="tag">Environment</a><span class="sep">,</span> <a href="#" rel="tag">Renewable Energy</a> -->
+                                                                </div>
                                                                 <div class="clear"></div>
                                                             </div>
-                                                            <div class="portfolio-excerpt">text
+                                                            <div class="portfolio-excerpt">
+                                                                <!-- text -->
                                                                 <div class="clear">
 
                                                                 </div>
@@ -233,13 +239,13 @@
                                         <div class="greennature-item greennature-column-service-item greennature-type-2" style="margin-bottom: 0px;">
                                             <div class="column-service-image"><img src="upload/icon-service-1.png" alt="" width="80" height="80" /></div>
                                             <div class="column-service-content-wrapper">
-                                                <h3 class="column-service-title">Save Our Forest</h3>
+                                                <h3 class="column-service-title">Pertanian</h3>
                                                 <div class="column-service-content greennature-skin-content">
-                                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras
-                                                        mattis consectetur purus sit amet fermentum. Nulla vitae elit
-                                                        libero. Nullam quis risus eget urna mollis ornare vel eu leo.
+                                                    <p class="center-text" style="color: white;">Hampir 90% dari penduduk Nawungan berprofresi sebagai petani. Mereka mendirikan perkumpulan petani yang disebut Kelompok Tani Lestari Mulyo. Anggota kelompok tani tersebut sangat tinggi kesadaran dalam berorganisasi dan mematuhi kesepakatan kelompok, yang salah satunya adalah Tanam serentak. Dimana saat musim tanam tiba, toleransi waktu tanam adalah 12 hari.
+
                                                     </p>
-                                                </div><a class="column-service-read-more" href="#">Learn More</a>
+                                                </div>
+                                                <!-- <a class="column-service-read-more" href="#">Learn More</a> -->
                                             </div>
                                         </div>
                                     </div>
@@ -249,13 +255,11 @@
                                         <div class="greennature-item greennature-column-service-item greennature-type-2-bg" style="margin-bottom: 0px;background-color: #3f3221;">
                                             <div class="column-service-image"><img src="upload/icon-service-2.png" alt="" width="80" height="80" /></div>
                                             <div class="column-service-content-wrapper">
-                                                <h3 class="column-service-title">Save Our Water</h3>
+                                                <h3 class="column-service-title">Pengairan</h3>
                                                 <div class="column-service-content greennature-skin-content">
-                                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras
-                                                        mattis consectetur purus sit amet fermentum. Nulla vitae elit
-                                                        libero. Nullam quis risus eget urna mollis ornare vel eu
-                                                        leo. Egestas Dolor Risus.</p>
-                                                </div><a class="column-service-read-more" href="#">Learn More</a>
+                                                    <p class="center-text" style="color: white;">Sumber utama pengairan pertanian di Nawungan adalah air hujan. Untuk mengatasi permasalahan kekurangan air, mereka menggunakan sistem embung dalam memanen air hujan. Pembuatan embung telah berhasil menjamin ketersedian air untuk pertanian, dan mendorong perkembangan pertanian organik yang dapat menjaga kelestarian unsur hara dan stabilitas lahan </p>
+                                                </div>
+                                                <!-- <a class=" column-service-read-more" href="#">Learn More</a> -->
                                             </div>
                                         </div>
                                     </div>
@@ -265,13 +269,13 @@
                                         <div class="greennature-item greennature-column-service-item greennature-type-2" style="margin-bottom: 0px;">
                                             <div class="column-service-image"><img src="upload/icon-service-3.png" alt="" width="80" height="80" /></div>
                                             <div class="column-service-content-wrapper">
-                                                <h3 class="column-service-title">Recycling is A Must</h3>
+                                                <h3 class="column-service-title">Pemupukan</h3>
                                                 <div class="column-service-content greennature-skin-content">
-                                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras
-                                                        mattis consectetur purus sit amet fermentum. Nulla vitae elit
-                                                        libero. Nullam quis risus eget urna mollis ornare vel eu leo.
+                                                    <p class="center-text" style="color: white;"> Dalam pertanian di Nawungan, pupuk utama yang digunakan adalah pupuk organik yang ramah lingkungan. Para penduduknya kebanyakan juga memiliki hewan peliharaan untuk dimanfaatkan kotorannya.
+                                                        Selain pupuk kandang,juga menggunakan pupuk anorganik meskipun dosisnya masih dibawah rekomendasi yang dianjurkan.
                                                     </p>
-                                                </div><a class="column-service-read-more" href="#">Learn More</a>
+                                                </div>
+                                                <!-- <a class="column-service-read-more" href="#">Learn More</a> -->
                                             </div>
                                         </div>
                                     </div>
