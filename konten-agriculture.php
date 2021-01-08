@@ -28,12 +28,12 @@
                                                         <article id="post-852" class="post-852 post type-post status-publish format-standard has-post-thumbnail hentry category-fit-row tag-blog tag-life-style">
                                                             <div class="greennature-standard-style">
                                                                 <div class="greennature-blog-thumbnail">
-                                                                    <a href="#"> <img src="images/produk-agro/durian.jpg" alt="" width="500" height="500" style="height: 230px;" /></a>
+                                                                    <a href="#"> <img src="images/produk-agro/bawang.jpg" alt="" width="500" height="500" style="height: 230px;" /></a>
                                                                 </div>
 
                                                                 <div class="greennature-blog-grid-content">
                                                                     <header class="post-header">
-                                                                        <h3 class="greennature-blog-title"><a href="#">Komoditas Durian</a></h3>
+                                                                        <h3 class="greennature-blog-title"><a href="#">Komoditas Bawang</a></h3>
 
                                                                         <div class="greennature-blog-info">
                                                                             <!-- <div class="blog-info blog-date greennature-skin-info"><i class="fa fa-clock-o"></i><a href="#">7 Januari 2021</a></div> -->
@@ -124,12 +124,12 @@
                                                         <article id="post-852" class="post-852 post type-post status-publish format-standard has-post-thumbnail hentry category-fit-row tag-blog tag-life-style">
                                                             <div class="greennature-standard-style">
                                                                 <div class="greennature-blog-thumbnail">
-                                                                    <a href="#"> <img src="images/produk-agro/bawang.jpg" alt="" width="500" height="500" style="height: 230px;" /></a>
+                                                                    <a href="#"> <img src="images/produk-agro/durian.jpg" alt="" width="500" height="500" style="height: 230px;" /></a>
                                                                 </div>
 
                                                                 <div class="greennature-blog-grid-content">
                                                                     <header class="post-header">
-                                                                        <h3 class="greennature-blog-title"><a href="#">Komoditas Bawang Glowing</a></h3>
+                                                                        <h3 class="greennature-blog-title"><a href="#">Komoditas Durian</a></h3>
 
                                                                         <div class="greennature-blog-info">
                                                                             <!-- <div class="blog-info blog-date greennature-skin-info"><i class="fa fa-clock-o"></i><a href="#">7 Januari 2021</a></div> -->

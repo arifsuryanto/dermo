@@ -25,7 +25,7 @@
                     <div class="ms-slide" data-delay="7" data-fill-mode="fill">
                         <img src="plugins/masterslider/public/assets/css/blank.gif" alt="" title="" data-src="images/slider-2.jpg" />
 
-                        <a href="masterplan.php" target="_self" class="ms-layer ms-btn ms-btn-round ms-btn-n msp-preset-btn-159" data-effect="t(true,n,n,-500,n,n,n,n,n,n,n,n,n,n,n)" data-duration="400" data-delay="987" data-ease="easeOutQuint" data-type="button" data-offset-x="1" data-offset-y="227" data-origin="ml" data-position="normal">Learn More</a>
+                        <a href="masterplan.php" target="_self" class="ms-layer ms-btn ms-btn-round ms-btn-n msp-preset-btn-159" data-effect="t(true,n,n,-500,n,n,n,n,n,n,n,n,n,n,n)" data-duration="400" data-delay="987" data-ease="easeOutQuint" data-type="button" data-offset-x="1" data-offset-y="227" data-origin="ml" data-position="normal">Lihat Semua</a>
 
                         <div class="ms-layer  msp-cn-1-3" style="" data-effect="t(true,150,n,n,n,n,n,n,n,n,n,n,n,n,n)" data-duration="425" data-delay="325" data-ease="easeOutQuint" data-offset-x="0" data-offset-y="-5" data-origin="ml" data-position="normal">
                             Bukit Dermo 2021</div>

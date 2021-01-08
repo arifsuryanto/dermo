@@ -39,7 +39,7 @@
                                         <div class="greennature-half-bg greennature-bg-solid">
                                         </div>
                                     </div> -->
-                                    <iframe style="padding-top:10%;padding-left:0%;padding-right:0" height="170" src="https://www.youtube.com/embed/MH46SzpBqkU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <!-- <iframe style="padding-top:10%;padding-left:0%;padding-right:0" height="170" src="https://www.youtube.com/embed/MH46SzpBqkU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
                                 </div>
                                 <div class="clear"></div>
@@ -57,7 +57,7 @@
                                         <div class="action-ads-caption greennature-skin-info"></div>
                                         <div class="action-ads-divider" style="background: #facc2e;"></div>
                                         <div class="action-ads-content">
-                                            <p class="custom-text">Agrowisata Bukit Dermo berada di 35 hektare lahan kritis yang terletak di Jalan Jogja-Panggang KM 23, Dusun Nawungan 1, Desa Selopamioro, Kecamatan Imogiri, Kabupaten Bantul, Provinsi Daerah Istimewa Yogyakarta <br> <br> </p>
+                                            <p class="custom-text">Agrowisata Bukit Dermo berada di 35 hektare lahan kritis yang terletak di Jalan Siluk Panggang KM 23, Dusun Nawungan 1, Desa Selopamioro, Kecamatan Imogiri, Kabupaten Bantul, Provinsi Daerah Istimewa Yogyakarta <br> <br> </p>
                                             <a class=" action-ads-button large greennature-button greennature-lb-payment" href="kontak.php" style="color: #6d5b1c;background-color: #fec428;">Lihat Semua</a>
                                         </div>
                                     </div>
@@ -378,19 +378,20 @@
                                             <div class="greennature-item-title-container container">
                                                 <div class="greennature-item-title-head">
                                                     <h3 class="greennature-item-title greennature-skin-title greennature-skin-border">
-                                                        Current Campaign</h3>
+                                                        Peta</h3>
                                                     <div class="clear"></div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="greennature-video-item greennature-item">
-                                        <iframe src="http://player.vimeo.com/video/101707505?title=0&amp;byline=0&amp;portrait=0" width="620" height="348"></iframe>
+                                        <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7902.734651460064!2d110.40198220362927!3d-7.960938371694284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7babf4d8626865%3A0xd099f701ea9170bd!2sBukit%20Dermo!5e0!3m2!1sen!2sid!4v1610081866497!5m2!1sen!2sid" width="320" height="270" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                        </center>
                                     </div>
-                                    <div class="greennature-item greennature-content-item">
+                                    <!-- <div class="greennature-item greennature-content-item">
                                         <p><strong><a style="font-size: 15px;" href="#">Learn more about this
                                                     campaign</a></strong></p>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="four columns">
                                     <div class="greennature-testimonial-item-wrapper">
