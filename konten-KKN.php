@@ -15,8 +15,8 @@
                       <div class="greennature-item-title-wrapper greennature-item  greennature-center greennature-extra-large ">
                         <div class="greennature-item-title-container container">
                           <div class="greennature-item-title-head">
-                            <h3 class="greennature-item-title greennature-skin-title greennature-skin-border">STORY ABOUT US</h3>
-                            <div class="greennature-item-title-caption greennature-skin-info">Condimentum Ipsum Vestibulum</div>
+                            <h3 class="greennature-item-title greennature-skin-title greennature-skin-border">Kuliah Kerja Nyata 74</h3>
+                            <div class="greennature-item-title-caption greennature-skin-info">Universitas Pembangunan Nasional "Veteran" Yogyakarta</div>
                             <div class="clear"></div>
                           </div>
                         </div>
@@ -30,31 +30,37 @@
               </section>
               <section id="content-section-2">
                 <div class="greennature-color-wrapper  gdlr-show-all no-skin greennature-half-bg-wrapper" style="background-color: #ffffff; ">
-                  <div class="greennature-half-bg greennature-bg-solid" style="background-image: url(upload/shutterstock_124871620.jpg);"></div>
+                  <!-- <div class="greennature-half-bg greennature-bg-solid" style="background-image: url(images/upn.png); "></div> -->
                   <div class="container">
-                    <div class="six columns"></div>
+                  <div class="four columns">
+                      <img src="images/upn.png" style="width: 100%; align-items: center;">
+                    </div>
+                    <div class="one columns"></div>
                     <div class="six columns">
                       <div class="greennature-item greennature-about-us-item greennature-normal">
                         <div class="about-us-title-wrapper">
-                          <h3 class="about-us-title">Risus Ultricies Fringilla Fusce</h3>
-                          <div class="about-us-caption greennature-title-font greennature-skin-info">Amet Dapibus Mollis</div>
+                          <h3 class="about-us-title">KKN Reguler Covid-19 Angkatan 74</h3>
+                          <div class="about-us-caption greennature-title-font greennature-skin-info">Kelompok AB 74.37 B</div>
                           <div class="about-us-title-divider"></div>
                         </div>
                         <div class="about-us-content-wrapper">
                           <div class="about-us-content greennature-skin-content">
-                            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas faucibus mollis interdum. Donec ullamcorper nulla non metus auctor fringilla.</p>
-                            <p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cum sociis natoque penatibus et magnis. Donec ullamcorper nulla non metus auctor fringilla.</p>
-                          </div><a class="about-us-read-more greennature-button" href="#">Read More</a>
+                            <p>Assalamualaikum warahmatullah wabarakatuh<br>
+                            Perkenalkan kamu dari kkn reguler cobid-19 angkatan 74 UPN "Veteran" Yogyakarta.<br>
+                            Kami melaksanakan kegiatan kuliah kerja nyata pada periode 10 Desember 2020 - 10 Januari 2021 bertempat di dusun Nawungan 1, desa Selopamioro, kecamatan Imogiri, kabupaten Bantul, Daerah Istimewa Yogyakarta.</p>
+                          </div><!-- <a class="about-us-read-more greennature-button" href="#">Read More</a> -->
                         </div>
                         <div class="clear"></div>
                       </div>
                     </div>
+                    
+                    
                     <div class="clear"></div>
                   </div>
                 </div>
                 <div class="clear"></div>
               </section>
-              <section id="content-section-3">
+            <!--   <section id="content-section-3">
                 <div class="greennature-color-wrapper  gdlr-show-all no-skin" style="background-color: #f0f0f0; padding-top: 70px; padding-bottom: 25px; ">
                   <div class="container">
                     <div class="four columns">
@@ -103,11 +109,11 @@
                   </div>
                 </div>
                 <div class="clear"></div>
-              </section>
+              </section> -->
               <section id="content-section-4">
                 <div class="greennature-color-wrapper   " style="background-color: #ffffff; ">
                   <div class="container">
-                    <div class="greennature-title-item" style="margin-bottom: 40px;">
+                    <!-- <div class="greennature-title-item" style="margin-bottom: 40px;">
                       <div class="greennature-item-title-wrapper greennature-item  greennature-left-divider greennature-medium ">
                         <div class="greennature-item-title-container container">
                           <div class="greennature-item-title-head">
@@ -170,7 +176,7 @@
                             </div>
                           </div>
                         </div>
-                      </div>
+                      </div> -->
                       <div class="clear"></div>
                       <div class="four columns">
                         <div class="greennature-item greennature-personnel-item greennature-left plain-style">
@@ -191,8 +197,8 @@
                 <div class="clear"></div>
               </section>
               <section id="content-section-5">
-                <div class="greennature-parallax-wrapper greennature-background-image gdlr-show-all greennature-skin-dark-skin" id="greennature-parallax-wrapper-2" data-bgspeed="0.1" style="background-image: url('upload/service-bg-2.jpg'); padding-top: 125px; padding-bottom: 90px; ">
-                  <div class="container">
+                <!-- <div class="greennature-parallax-wrapper greennature-background-image gdlr-show-all greennature-skin-dark-skin" id="greennature-parallax-wrapper-2" data-bgspeed="0.1"  style="padding-top: 125px; padding-bottom: 90px;"> --><img src="images/tim37.png" style="padding-top: 0; margin-top: 0">
+                  <!-- <div class="container">
                     <div class="greennature-stunning-item-ux greennature-ux">
                       <div class="greennature-item greennature-stunning-item greennature-stunning-center">
                         <h2 class="stunning-item-title">The only way to make this happened is to take action!</h2>
@@ -203,11 +209,11 @@
                     </div>
                     <div class="clear"></div>
                     <div class="clear"></div>
-                  </div>
-                </div>
-                <div class="clear"></div>
+                  </div> -->
+              <!-- 
+                <div class="clear"></div> -->
               </section>
-              <section id="content-section-6">
+              <!-- <section id="content-section-6">
                 <div class="greennature-color-wrapper  gdlr-show-all no-skin" style="background-color: #262626; padding-top: 85px; padding-bottom: 62px; ">
                   <div class="container">
                     <div class="three columns">
@@ -238,12 +244,9 @@
                   </div>
                 </div>
                 <div class="clear"></div>
-              </section>
+              </section> -->
             </div>
             <!-- Below Sidebar Section-->
 
-          </div>
-          <!-- greennature-content -->
-          <div class="clear"></div>
-        </div>
+          
         <!-- content wrapper -->

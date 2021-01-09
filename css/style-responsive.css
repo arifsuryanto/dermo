@@ -134,6 +134,7 @@ html body{ min-width: 300px; }
 	/*--- header style ---*/
 	.greennature-header-wrapper.header-style-5-wrapper { position: relative; }
 	.header-style-5-title-wrapper.greennature-page-title-wrapper { padding-top: 74px; }
+	.header-style-5-title-wrapper.greennature-page-title-wrapper { padding-top: 10px; }
 
 	/* donation lightbox form */
 	.greennature-payment-lightbox-container{width: auto;left: 20px;right: 20px;top: 20px;bottom: 20px;}
