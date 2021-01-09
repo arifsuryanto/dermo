@@ -11,6 +11,8 @@
 
 
     <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/home.css' type='text/css' media='all' />
+
     <link rel='stylesheet' href='plugins/superfish/css/superfish.css' type='text/css' media='all' />
     <link rel='stylesheet' href='plugins/dl-menu/component.css' type='text/css' media='all' />
     <link rel='stylesheet' href='plugins/font-awesome-new/css/font-awesome.min.css' type='text/css' media='all' />
