@@ -4,10 +4,12 @@
 
 
 
-        <div class="greennature-page-title-wrapper header-style-5-title-wrapper" style="padding: 0; margin-top: 7%"> 
+        <div class="greennature-page-title-wrapper header-style-5-title-wrapper" style="padding: 0; margin-top: 7%;"> 
             <div class="greennature-page-title-overlay"></div>
           <!--   <div class="greennature-page-title-container container"> -->
-                <img src="images/bannerdermo.png" style="height: 100%; background-color: #292929; margin: 0">
+          <div class="six columns"><img src="images/gubukdermofood.png" style="width: 100%; background-color: #292929;"></div>
+          <div class="six columns"><img src="images/dermokopi.png" style="width:  100%; background-color: #292929;"></div>
+                
                 <!-- <h1 class="greennature-page-title">Portfolio Grid 4 Columns</h1>
                 <span class="greennature-page-caption">Caption placed here</span> -->
            <!--  </div> -->
